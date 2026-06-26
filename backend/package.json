@@ -1,0 +1,19 @@
+{
+  "name": "explain-my-error-backend",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "node --watch src/app.js",
+    "start": "node src/app.js"
+  },
+  "dependencies": {
+    "@google/generative-ai": "^0.24.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.0",
+    "express": "^5.2.1",
+    "express-rate-limit": "^7.0.0",
+    "helmet": "^7.0.0",
+    "mongodb": "^7.3.0",
+    "mongoose": "^8.24.1"
+  }
+}
