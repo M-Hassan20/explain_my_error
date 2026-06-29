@@ -112,7 +112,3 @@ App runs at `http://localhost:5173`.
 - **Backend** — Render https://explain-my-error-z7xp.onrender.com
 - **Frontend** — Netlify https://merry-hummingbird-5e7c8d.netlify.app
 - **Database** — MongoDB Atlas
-
-## License
-
-MIT
